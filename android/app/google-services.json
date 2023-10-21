@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1068062627965",
+    "project_id": "eurosom-5bd44",
+    "storage_bucket": "eurosom-5bd44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068062627965:android:b80bb08d3f5289199c3914",
+        "android_client_info": {
+          "package_name": "com.eurosom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068062627965-4coljbde1d2aet3erhasepgshotb9s9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eurosom",
+            "certificate_hash": "f98f556c8f8a7b759081c3c5633f047c9a4c9178"
+          }
+        },
+        {
+          "client_id": "1068062627965-gftqgv8mjfifjr8cr2m1n3ucm8nkkrsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3gQiovwwMS-flFYOCttr871fm2kHMUhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068062627965-gftqgv8mjfifjr8cr2m1n3ucm8nkkrsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
